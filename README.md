@@ -1,4 +1,4 @@
-Autonomy
+Autonomy (Developed in Early 2013)
 ========
 
 Experimental project for testing an algorithm that would allow for multithreaded operations on a collection
